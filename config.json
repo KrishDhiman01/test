@@ -1,9 +1,14 @@
-{
-  "site_url": "https://vegamovies.md/"
-}
-{
-  "site_url": "https://vegamovies.md/"
-}
-{
-  "site_url": "https://vegamovies.md/"
-}
+[
+  {
+    "name": "Vegamovies HD",
+    "site_url": "https://vegamovies.md/"
+  },
+  {
+    "name": "Backup Site 1",
+    "site_url": "https://vegamovies1.md/"
+  },
+  {
+    "name": "Backup Site 2",
+    "site_url": "https://vegamovies2.md/"
+  }
+]
